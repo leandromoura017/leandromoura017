@@ -16,6 +16,7 @@
   <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3"/>
   <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="80" alt="JavaScript"/>
   <img src="https://img.icons8.com/?size=100&id=SrDTEN0d3OPH&format=png&color=000000" width="80" alt="Json"/>
+  <img src="https://img.icons8.com/?size=100&id=d9MaqNTok1pu&format=png&color=000000" width="80" alt="Scrun"/>
  </div>
 
 </table>
