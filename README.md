@@ -2,11 +2,6 @@
 
 
 <table>
-    <p align="center">
-    <a href="https://github.com/leandromoura017">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leandromoura017&count_private=false&show_icons=true&theme=github_dark"/>
-    <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoura017&layout=compact&show_icons=true&theme=github_dark"/>
-    </p>
    
  <div align="center">
   <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="80" alt="C++"/>
